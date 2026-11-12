@@ -1,0 +1,8 @@
+name: SkyfangDragon
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+api-version: "1.21"
+commands:
+  dragon:
+    description: Summon and command your flying plasma dragon.
+    usage: /dragon [summon|attack|stay|follow]
